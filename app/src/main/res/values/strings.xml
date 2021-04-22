@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demos and Examples</string>
+    <string name="_40">40%</string>
+    <string name="_600">600</string>
+    <string name="demo">Demo</string>
+    <string name="demo">Demo</string>
+    <string name="demo_widget">Demo widget</string>
+    <string name="no_data">No data.</string>
+    <string name="grant_permission">Grant permission</string>
+    <string name="go_to_setting">Go to setting</string>
+    <string name="this_app_need_permission_to_display_your_contents">This app need permission to display your contents.</string>
+    <string name="to_start_using_this_application_you_need_to_grant_permission_to_do_it_go_to_your_device_setting_and_manually_grant_permissions_to_this_app">To start using this application, you need to grant permission. To do it, go to your device setting and manually grant permissions to this app.</string>
+</resources>
